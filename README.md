@@ -1,5 +1,3 @@
-# Muhammad Azzazy's Portfolio
-
 # Valhalla Traffic Integration for Careem
 ## Overview
 A Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase.
