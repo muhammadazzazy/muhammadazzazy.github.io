@@ -1,8 +1,8 @@
-# Valhalla Traffic Integration for Careem
+# Project 1: Valhalla Traffic Integration for Careem
 ## Overview
 A Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase.
 
-# Time-Series Demand Forecasting with SARIMAX
+# Project 2: Time-Series Demand Forecasting with SARIMAX
 ## Overview
 This Jupyter notebook implements time series forecasting using SARIMAX (Seasonal ARIMA with eXogenous variables) models. The analysis includes:
 
