@@ -14,7 +14,7 @@ This Jupyter notebook implements time series forecasting using SARIMAX (Seasonal
 
 # [Project 3: ProcLynx: The Linux Process Manager (LPM)](https://github.com/muhammadazzazy/proclynx)
 ## Overview
-ProcLynx is a Terminal User Interface (TUI) task manager capable of
+ProcLynx is a Terminal User Interface (TUI) task manager that is written in Rust and capable of performing the following:
 - killing Linux processes by name and ID
 - displaying process table showing the process ID, name, percentage memory utilization, and percentage processor utilization
 - showing GPU temperatures, system information, processor information, disk temperatures, and component information
