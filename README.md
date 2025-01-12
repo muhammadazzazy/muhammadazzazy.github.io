@@ -16,11 +16,8 @@ This project was implemented as part of my senior project at The American Univer
 
 # [Project 3: Simulated Annealing (SA) Placer](https://github.com/muhammadazzazy/SimulatedAnnealingPlacer)
 ## Overview
-A Visual Studio project written purely in C++ that implements a cell placement tool based on the SA algorithm. This SA algorithm was optimized through the utilization of various data structures from the C++ standard library. Extensive testing and debugging was performed with a set of six test cases to prove the algorithm's robustness.
+A Visual Studio project written purely in C++ that implements a cell placement tool based on the SA algorithm. This SA algorithm was optimized through the utilization of various data structures from the C++ standard library. Extensive testing and debugging was performed with a set of six test cases to prove the algorithm's robustness. Finally, an analysis was performed to determine how the Total Wire Length (TWL) varied with the temperature and the cooling rates.
 
-
-• Analyzed and plotted how the Total Wire Length (TWL) changed with the temperature and how it changed when
-setting different values for the cooling rate
 # [Project 4: ProcLynx: The Linux Process Manager (LPM)](https://github.com/muhammadazzazy/proclynx)
 ## Overview
 ProcLynx is a Terminal User Interface (TUI) task manager that is written in the memory safe programming language, Rust, and capable of performing the following:
