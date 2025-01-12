@@ -1,12 +1,12 @@
 # [Project 1: Valhalla Traffic Integration for Careem](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
-This project was implemented as part of my senior project at The American University in Cairo (AUC) with the industrial advisorship of Careem, the ride-hailing company. It is a Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve Estimated Time of Arrival (ETA) accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase to
+This project was implemented as part of my senior project at The American University in Cairo (AUC) with the academic advisorship of [Dr. Amr ElMougy](https://www.aucegypt.edu/fac/amr-el-mougy) and [Dr. Nouri Sakr](https://www.aucegypt.edu/fac/nouri-sakr) and the industrial advisorship of [Careem](https://www.careem.com/), the ride-hailing company. It is a Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve Estimated Time of Arrival (ETA) accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase to
 1. Acquire accurate ETAs for validating a Random Forest Regression (RFR) model for ETA prediction.
 2. Enhance the performance of the pooling algorithm by feeding it with the ETAs obtained from the Valhalla routing engine.
 
 # [Project 2: Time-Series Demand Forecasting with SARIMAX](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
-This project was implemented as part of my senior project at AUC with the industrial advisorship of Careem, the ride-hailing company. It features a Jupyter notebook that implements time series analysis and forecasting using SARIMAX (Seasonal ARIMA with eXogenous regressors) models. The time series analysis incorporates:
+This project was implemented as part of my senior project at The American University in Cairo (AUC) with the academic advisorship of [Dr. Amr ElMougy](https://www.aucegypt.edu/fac/amr-el-mougy) and [Dr. Nouri Sakr](https://www.aucegypt.edu/fac/nouri-sakr) and the industrial advisorship of [Careem](https://www.careem.com/), the ride-hailing company. It features a Jupyter notebook that implements time series analysis and forecasting using SARIMAX (Seasonal ARIMA with eXogenous regressors) models. The time series analysis incorporates:
 - Exploratory Data Analysis (EDA) and data preprocessing
 - Time series decomposition and seasonality analysis
 - Model parameter selection using autocorrelation function (ACF) and partial autocorrelation function (PACF)
