@@ -1,6 +1,6 @@
 # [Project 1: Valhalla Traffic Integration for Careem](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
-This project was implemented as part of my senior project at The American University in Cairo (AUC) with the industrial advisorship of Careem, the ride-hailing company. It is a Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase.
+This project was implemented as part of my senior project at The American University in Cairo (AUC) with the industrial advisorship of Careem, the ride-hailing company. It is a Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase to acquire accurate ETAs for validating a Random Forest Regressor (RFR) ETA prediction model.
 
 # [Project 2: Time-Series Demand Forecasting with SARIMAX](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
