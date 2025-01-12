@@ -4,7 +4,7 @@ This project was implemented as part of my senior project at The American Univer
 1. Acquire accurate ETAs for validating a Random Forest Regression (RFR) model for ETA prediction.
 2. Enhance the performance of the pooling algorithm by feeding it with the ETAs obtained from the Valhalla routing engine.
 
-# [Project 2: Time-Series Demand Forecasting with SARIMAX](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
+# [Project 2: Merchant Demand Prediction with SARIMAX](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
 This project was implemented as part of my senior project at The American University in Cairo (AUC) with the academic advisorship of [Dr. Amr El Mougy](https://www.aucegypt.edu/fac/amr-el-mougy) and [Dr. Nouri Sakr](https://www.aucegypt.edu/fac/nouri-sakr) and the industrial advisorship of [Careem](https://www.careem.com/), the ride-hailing company. It features a Jupyter notebook that implements time series analysis and forecasting using SARIMAX (Seasonal ARIMA with eXogenous regressors) models. The time series analysis incorporates:
 - Exploratory Data Analysis (EDA) and data preprocessing
