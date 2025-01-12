@@ -11,12 +11,12 @@ This project was implemented as part of my senior project at The American Univer
 - Time series decomposition and seasonality analysis
 - Model parameter selection using autocorrelation function (ACF) and partial autocorrelation function (PACF)
 - SARIMAX model training and forecasting
-- Model evaluation using RMSE/MSE, MAE, and Theil's U-statistic
+- Model evaluation using Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and Theil's U-statistic
 - Residual analysis and diagnostic tests
 
-# [Project 3: Simulated Annealing Placer](https://github.com/muhammadazzazy/SimulatedAnnealingPlacer)
+# [Project 3: Simulated Annealing (SA) Placer](https://github.com/muhammadazzazy/SimulatedAnnealingPlacer)
 ## Overview
-A Visual Studio project written purely in C++ that implements a cell placement tool based on the simulated annealing algorithm. The SA algorithm was optimized using several data structures from the C++ 
+A Visual Studio project written purely in C++ that implements a cell placement tool based on the SA algorithm. 
 
 # [Project 4: ProcLynx: The Linux Process Manager (LPM)](https://github.com/muhammadazzazy/proclynx)
 ## Overview
