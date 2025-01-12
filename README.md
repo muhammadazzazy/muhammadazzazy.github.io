@@ -1,18 +1,22 @@
 # [Project 1: Valhalla Traffic Integration for Careem](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
-A Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase.
+This project was implemented as part of my senior project at The American University in Cairo (AUC) with the industrial advisorship of Careem, the ride-hailining company. It is a Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase.
 
 # [Project 2: Time-Series Demand Forecasting with SARIMAX](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
-This Jupyter notebook implements time series forecasting using SARIMAX (Seasonal ARIMA with eXogenous variables) models. The analysis includes:
-- Data preprocessing and exploration
+This project was implemented as part of my senior project at AUC with the industrial advisorship of Careem, the ride-hailing company. It features a Jupyter notebook that implements time series analysis and forecasting using SARIMAX (Seasonal ARIMA with eXogenous regressors) models. The time series analysis incorporates:
+- Exploratory Data Analysis (EDA) and data preprocessing
 - Time series decomposition and seasonality analysis
-- Model parameter selection using ACF and PACF
+- Model parameter selection using autocorrelation function (ACF) and partial autocorrelation function (PACF)
 - SARIMAX model training and forecasting
-- Model evaluation using RMSE, MSE, MAE, and Theil's U-statistic
+- Model evaluation using RMSE/MSE, MAE, and Theil's U-statistic
 - Residual analysis and diagnostic tests
 
-# [Project 3: ProcLynx: The Linux Process Manager (LPM)](https://github.com/muhammadazzazy/proclynx)
+# [Project 3: Simulated Annealing Placer](https://github.com/muhammadazzazy/SimulatedAnnealingPlacer)
+## Overview
+A Visual Studio project written purely in C++ that implements a cell placement tool based on the simulated annealing algorithm. The SA algorithm was optimized using several data structures from the C++ 
+
+# [Project 4: ProcLynx: The Linux Process Manager (LPM)](https://github.com/muhammadazzazy/proclynx)
 ## Overview
 ProcLynx is a Terminal User Interface (TUI) task manager that is written in Rust and capable of performing the following:
 - killing Linux processes by name and ID
