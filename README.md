@@ -1,8 +1,8 @@
-# (Project 1: Valhalla Traffic Integration for Careem)[https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper]
+# [Project 1: Valhalla Traffic Integration for Careem](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
 A Python-based solution for integrating historical traffic data with Valhalla's routing engine to improve ETA accuracy for Careem's ride-hailing platform in Amman, Jordan. This implementation enhances Valhalla's routing capabilities without modifying its core C++ codebase.
 
-# (Project 2: Time-Series Demand Forecasting with SARIMAX)[https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper]
+# [Project 2: Time-Series Demand Forecasting with SARIMAX](https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper)
 ## Overview
 This Jupyter notebook implements time series forecasting using SARIMAX (Seasonal ARIMA with eXogenous variables) models. The analysis includes:
 - Data preprocessing and exploration
