@@ -6,7 +6,7 @@ This project was implemented as part of my senior project at The American Univer
 
 # [Project 2: Careem QUIK Merchant Demand Prediction with SARIMAX](https://github.com/muhammadazzazy/time-series-forecasting-sarimax)
 ## Overview
-This project was implemented as part of my senior project at The American University in Cairo (AUC) with the joint academic advisorship of [Dr. Amr El Mougy](https://www.aucegypt.edu/fac/amr-el-mougy) and [Dr. Nouri Sakr](https://www.aucegypt.edu/fac/nouri-sakr) and the industrial advisorship of [Selim Turki](https://www.linkedin.com/in/selimturki). It features a Jupyter notebook that implements time series analysis and forecasting using SARIMAX (Seasonal ARIMA with eXogenous regressors) models. The time series analysis incorporates:
+This project was implemented as part of my senior project at The American University in Cairo (AUC) with the joint academic advisorship of [Dr. Amr El Mougy](https://www.aucegypt.edu/fac/amr-el-mougy) and [Dr. Nouri Sakr](https://www.aucegypt.edu/fac/nouri-sakr) and the industrial advisorship of [Selim Turki](https://www.linkedin.com/in/selimturki) ([Careem](https://www.careem.com/)). It features a Jupyter notebook that implements time series analysis and forecasting using SARIMAX (Seasonal ARIMA with eXogenous regressors) models. The time series analysis incorporates:
 - Exploratory Data Analysis (EDA) and data preprocessing
 - Time series decomposition and seasonality analysis
 - Model parameter selection using autocorrelation function (ACF) and partial autocorrelation function (PACF)
