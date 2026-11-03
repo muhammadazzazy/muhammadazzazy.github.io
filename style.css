@@ -399,8 +399,7 @@ h3 {
     grid-template-columns: 1fr;
   }
 
-  .education-card,
-  .footer-content {
+  .education-card {
     align-items: flex-start;
     flex-direction: column;
     gap: 25px;
