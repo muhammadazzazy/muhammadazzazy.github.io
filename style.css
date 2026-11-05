@@ -221,7 +221,7 @@ h3 {
 
 .timeline-date,
 .company,
-.project-label,
+.label,
 .education-details {
   color: var(--black);
   font-family: "DM Mono", monospace;
@@ -344,17 +344,13 @@ h3 {
   border-color: var(--gray);
 }
 
-.project-label {
+.label {
   color: var(--accent);
 }
 
-.project-card p:not(.project-label) {
+.project-card p:not(.label) {
   color: var(--black);
   max-width: 600px;
-}
-
-.section-dark .project-card p:not(.project-label) {
-  color: var(--gray);
 }
 
 .text-link {
