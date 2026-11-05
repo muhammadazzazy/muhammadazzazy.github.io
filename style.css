@@ -349,8 +349,12 @@ h3 {
 }
 
 .project-card p:not(.project-label) {
-  color: var(--gray);
+  color: var(--black);
   max-width: 600px;
+}
+
+.section-dark .project-card p:not(.project-label) {
+  color: var(--gray);
 }
 
 .text-link {
