@@ -158,7 +158,7 @@ h3 {
 }
 
 .button-primary {
-  background: var(--accent);
+  background: var(--gray);
 }
 
 .button-secondary {
@@ -200,7 +200,7 @@ h3 {
 }
 
 .section-dark .eyebrow {
-  color: var(--accent);
+  color: var(--white);
 }
 
 .section-soft {
@@ -344,8 +344,8 @@ h3 {
   border-color: var(--gray);
 }
 
-.label {
-  color: var(--accent);
+.section-dark .label {
+  color: var(--white);
 }
 
 .project-card p:not(.label) {
@@ -358,8 +358,16 @@ h3 {
   white-space: nowrap;
 }
 
+.section-dark .text-link {
+  color: var(--white);
+}
+
+.section-dark .text-link:hover {
+  color: var(--accent);
+}
+
 .footer {
-  background: var(--accent);
+  background: var(--gray);
   padding-top: 75px;
 }
 
