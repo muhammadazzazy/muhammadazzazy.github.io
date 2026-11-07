@@ -358,12 +358,21 @@ h3 {
   white-space: nowrap;
 }
 
+.section .text-link {
+  color: var(--black);
+}
+
 .section-dark .text-link {
   color: var(--white);
 }
 
-.section-dark .text-link:hover {
+.text-link:hover {
   color: var(--accent);
+}
+
+.project-title {
+  color: var(--accent);
+  font-size: 1.3rem;
 }
 
 .footer {
