@@ -173,13 +173,11 @@ h3 {
   text-align: center;
 }
 
-.image-frame {
-  background: var(--accent);
+.bordered-image {
   border: 1px solid var(--black);
-  padding: 14px;
 }
 
-.image-frame img {
+.bordered-image img {
   display: block;
   height: auto;
   width: 100%;
